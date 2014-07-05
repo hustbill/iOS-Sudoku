@@ -1,5 +1,7 @@
+Sudoku 
+========
+
 Sudoku is a logic game with a Japanese name that has recently exploded in popularity. 
-====================================================================================
 
 This is the second project in cs458 Mobile development. 
 
